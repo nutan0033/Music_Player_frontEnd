@@ -20,6 +20,13 @@ MUSIC_PLAYER is an online music player website, designed to offer a user experie
 ## Responsiveness
 The design is made responsive with two additional CSS files, ensuring a seamless experience across various devices and screen sizes.
 
+
+## Technologies Used
+- **HTML5** – for structuring the web pages  
+- **CSS3** – for styling and responsive design  
+- **JavaScript (Planned)** – for dynamic interactions and enhanced functionality  
+- **Netlify** – for deployment and hosting  
+
 ## Features
 - Music streaming
 - Playlist management
