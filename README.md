@@ -5,7 +5,7 @@
 MUSIC_PLAYER is an online music player website, designed to offer a user experience similar to Spotify. This project is built using HTML and CSS, with plans to incorporate JavaScript for enhanced functionality.
 ## Live Demo
 <i>
-<a href="(https://brave-elion-212f16.netlify.app/)">Music Player</a></i>
+<a href="https://brave-elion-212f16.netlify.app/">Music Player</a></i>
 
 
 ## Pages
